@@ -6,28 +6,6 @@
 
 👉 A passionate and enthusiastic person who like to meet new people and love to cater different challenges and solve them through my abilities.
 
-Highlighted skills ⬇️
-
-DEVELOPEMENT:
-✅ Web Development (HTML, CSS, Javascript, JQuery )
-✅ Web Responsive/UI Libraries (Bootstrap, Material Design, ReactStrap, Semantic-ui, etc )
-✅ React.js
-✅ React Native (Expo / Android / iOS App Development)
-✅ JavaScript (ES6 / ECMAScript)
-✅ TypeScript / JSX
-✅ MERN = React.js / React Native, Node.js, Express.js, MongoDB/Mongoose
-✅ API's Integration (Stripe / Google Map / Geolocation / 3rd-party APIs etc)
-✅ Social Media Login (Facebook / Google etc)
-✅ Deploy to Google Play and App Store
-✅ Firebase (Database / Firestore / Authentication / Analytics / Crashlytics / Cloud)
-✅ Fully Featured Libraries used with React Native (Redux / Redux Thunk / Redux-Persist / React Navigation, React Router, etc)
-
-OTHER TOOLS/SKILLS:
-✅ Git (VCS) / GitHub / BitBucket
-✅ NPM / Yarn / Heroku
-✅ Swagger Documentation for API
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ghulam909) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ghulammustafa909) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ghulam909) 
 
