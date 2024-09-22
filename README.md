@@ -1,5 +1,31 @@
 # 💫 About Me:
-I am a passionate software engineer having several years of working experience in providing IT services to many local and international clients. I possess adequate experience to become a part of the software development stages such as designing, developing and testing. Exploring and learning new things, passionate about developing web and mobile apps, active presence in social communities, always eager to know about new tech and trends related to computer science. A passionate and enthusiastic person who like to meet new people and love to cater different challenges and solve them through my abilities.
+Greetings,
+👉 I am a passionate software engineer having several years of working experience in providing IT services to many local and international clients. I possess adequate experience to become a part of the software development stages such as designing, developing and testing.
+
+👉 Exploring and learning new things, passionate about developing web and mobile apps, active presence in social communities, always eager to know about new tech and trends related to computer science
+
+👉 A passionate and enthusiastic person who like to meet new people and love to cater different challenges and solve them through my abilities.
+
+Highlighted skills ⬇️
+
+DEVELOPEMENT:
+✅ Web Development (HTML, CSS, Javascript, JQuery )
+✅ Web Responsive/UI Libraries (Bootstrap, Material Design, ReactStrap, Semantic-ui, etc )
+✅ React.js
+✅ React Native (Expo / Android / iOS App Development)
+✅ JavaScript (ES6 / ECMAScript)
+✅ TypeScript / JSX
+✅ MERN = React.js / React Native, Node.js, Express.js, MongoDB/Mongoose
+✅ API's Integration (Stripe / Google Map / Geolocation / 3rd-party APIs etc)
+✅ Social Media Login (Facebook / Google etc)
+✅ Deploy to Google Play and App Store
+✅ Firebase (Database / Firestore / Authentication / Analytics / Crashlytics / Cloud)
+✅ Fully Featured Libraries used with React Native (Redux / Redux Thunk / Redux-Persist / React Navigation, React Router, etc)
+
+OTHER TOOLS/SKILLS:
+✅ Git (VCS) / GitHub / BitBucket
+✅ NPM / Yarn / Heroku
+✅ Swagger Documentation for API
 
 
 ## 🌐 Socials:
