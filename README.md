@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👉 I am a passionate software engineer having several years of working experience in providing IT services to many local and international clients. I possess adequate experience to become a part of the software development stages such as designing, developing and testing.
+👉 I am a passionate software engineer having around 5 years of working experience in providing IT services to many local and international clients. I possess adequate experience to become a part of the software development stages such as designing, developing and testing.
 
 👉 Exploring and learning new things, passionate about developing web and mobile apps, active presence in social communities, always eager to know about new tech and trends related to computer science
 
