@@ -1,27 +1,92 @@
 # Hi, I'm Ghulam Mustafa 👋
-### Senior Full-Stack & Mobile Engineer · React Native · Next.js · Node.js · AI/LLM
+
+### 🚀 Building AI-powered SaaS, scalable web & mobile applications, and intelligent automation systems.
+
+Senior Full Stack Software Engineer with **5+ years of experience** delivering production-grade applications across fintech, B2B commerce, enterprise platforms, and AI-powered products.
+
+> I don't just build software—I solve business problems through scalable architecture, great user experiences, and AI-driven automation.
+
+• Open to Senior Software Engineer, AI Engineer, Freelance & Startup Collaboration opportunities.
 
 ---
+
+# 🚀 Currently Building
+
+🤖 AI Prospect Intelligence Platform
+
+🧠 AI Proposal Generator
+
+🌍 AI Visa Advisor
+
+⚡ Business Intelligence Platform
+
+📚 Actively focused on
+
+- Agentic AI
+- MCP
+- LangGraph
+- Google Vertex AI
+- AI Automation
 
 ## 👨‍💻 About Me
 
-Senior software engineer with **5+ years of production experience** building high-scale web and mobile products for fintech, B2B commerce, enterprise, and AI-powered SaaS — serving local and international clients across the US, UK, and South Asia.
+I'm a Full Stack Software Engineer passionate about building products that create measurable business value.
 
-I specialise in **React Native** for cross-platform mobile and **React/Next.js** on the web, backed by solid **Node.js** backend experience. Over the last year I've been actively integrating **LLM-powered features** using the OpenAI API — shipping AI workflows that convert raw data into actionable product experiences.
+Over the last **5+ years**, I've helped startups and enterprises design, build, and scale production web and mobile applications used by **100K+ users** across fintech, B2B commerce, education, and AI.
 
-My strongest skill isn't any single technology — it's **knowing how to ship**. I've maintained production apps with 100K+ active users, sustained 99.9% uptime SLAs, and delivered consistent monthly releases across multi-year engagements. I work well in cross-functional teams and can own features end-to-end from architecture through App Store delivery.
+My expertise spans the entire product lifecycle—from architecture and backend APIs to polished mobile experiences and AI-powered features.
 
-**What I bring to a team:**
-- 🚀 Production-grade React Native — offline-first, performance-optimised, Hermes-tuned
-- 🧠 AI feature integration — OpenAI API, streaming, LLM-assisted workflows
-- 🏗 Full-stack ownership — REST APIs, PostgreSQL, Firebase, Node.js backends
-- 📱 App Store & Play Store delivery — end-to-end from development to submission
-- 🔍 Observability & reliability — Crashlytics, Sentry, CI/CD, zero-rollback releases
-- 🎯 Product thinking — I optimise for outcomes, not just working code
+### What I enjoy building
+
+- 🤖 AI-powered SaaS products
+- 📱 Production React Native applications
+- 🌐 Modern web platforms with React & Next.js
+- ⚙️ Backend systems with Node.js & PostgreSQL
+- 🚀 Workflow automation & AI agents
+- 📊 Products that improve business efficiency
+
+I believe great software isn't measured by lines of code—it's measured by the problems it solves.
+
+## 💼 Why Teams Like Working With Me
+✅ End-to-end product ownership
+
+✅ Production-ready architecture
+
+✅ Clean, maintainable code
+
+✅ AI & LLM integrations
+
+✅ Performance optimization
+
+✅ Reliability & observability
+
+✅ Strong communication
+
+✅ Product-first thinking
 
 ---
 
-## 🏆 Career Highlights
+# 🤖 AI & Automation
+
+Currently exploring and building with
+
+- OpenAI
+- Gemini
+- Claude
+- LangGraph
+- MCP
+- AI Agents
+- RAG
+- Vector Databases
+- n8n
+- Prompt Engineering
+- AI Workflow Automation
+
+My goal is to build intelligent software that augments human productivity instead of replacing it.
+
+---
+
+📈 Business Impact
 
 | Metric | Context |
 |---|---|
@@ -37,6 +102,24 @@ My strongest skill isn't any single technology — it's **knowing how to ship**.
 🏅 Participant — Momentum Fintech Hackathon 2019
 🏅 Participant — Civic Tech Hackathon 2018, NIC Karachi
 
+---
+
+# 🏗 Engineering Principles
+
+✔ Build for maintainability
+
+✔ Optimize for business outcomes
+
+✔ Performance by default
+
+✔ Security-conscious development
+
+✔ Testable architecture
+
+✔ Developer experience matters
+
+✔ Ship fast without compromising quality
+  
 ---
 
 ## 🚀 Notable Projects
@@ -115,9 +198,68 @@ My strongest skill isn't any single technology — it's **knowing how to ship**.
 
 ---
 
-## 🤝 Let's Connect
+# 🌱 Open Source
 
-I'm currently **open to senior full-time and contract remote roles** — React Native, full-stack, or AI-integrated product engineering.
+I'm actively looking to contribute to meaningful open-source projects in:
+
+- AI
+- Developer Tools
+- React
+- Node.js
+- Automation
+- Productivity
+
+---
+
+# ✍️ Writing & Learning
+
+I enjoy sharing what I learn about
+
+- AI Engineering
+
+- React
+
+- Node.js
+
+- System Design
+
+- SaaS
+
+- Software Architecture
+
+Coming soon...
+
+---
+  
+# 🤝 Let's Build Something Great Together
+
+Whether you're
+
+🚀 Hiring a Senior Engineer
+
+🤖 Building an AI product
+
+💡 Launching a startup
+
+⚙️ Automating business workflows
+
+📱 Creating a mobile application
+
+I'd love to connect and explore how I can help.
+
+---
+
+## ☕ Beyond Code
+
+📚 Lifelong learner
+
+🚀 Passionate about startups
+
+🤖 Exploring AI daily
+
+🌍 Love solving real-world problems
+
+☕ Coffee-powered engineer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://resume-ghulam.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghulam909)
