@@ -1,6 +1,6 @@
 # Hi, I'm Ghulam Mustafa 👋
 
-### 🚀 Building AI-powered SaaS, scalable web & mobile applications, and intelligent automation systems.
+### 🚀 Senior Software Engineer building AI-powered web, mobile, and SaaS products.
 
 Senior Full Stack Software Engineer with **5+ years of experience** delivering production-grade applications across fintech, B2B commerce, enterprise platforms, and AI-powered products.
 
