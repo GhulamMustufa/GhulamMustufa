@@ -97,9 +97,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GhulamMustufa&theme=dark" alt="GitHub Profile Summary" />
 </p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GhulamMustufa&theme=dark&exclude=HTML,CSS" alt="Top Languages by Commit" />
-</p>
 
 <div align="center">
 
