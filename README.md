@@ -3,7 +3,7 @@
 # Hi, I'm Ghulam Mustafa 👋
 ### Senior Full-Stack & AI Systems Engineer
 
-[![Website](https://img.shields.io/badge/Website-ghulammustafa.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ghulammustafa.com)
+[![Website](https://img.shields.io/badge/Website-ghulam--mustafa.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ghulam-mustafa.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghulam909)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghulammustafa.mf@gmail.com)
 
@@ -92,10 +92,13 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GhulamMustufa&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=GhulamMustufa&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhulamMustufa&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GhulamMustufa&theme=dark" alt="GitHub Profile Summary" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GhulamMustufa&theme=dark" alt="Top Languages" />
 </p>
 
 <div align="center">
@@ -104,7 +107,7 @@
 
 ### 🤝 Let's Connect
 
-[![Website](https://img.shields.io/badge/Website-ghulammustafa.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ghulammustafa.com)
+[![Website](https://img.shields.io/badge/Website-ghulam--mustafa.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ghulam-mustafa.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghulam909)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghulammustafa.mf@gmail.com)
 
